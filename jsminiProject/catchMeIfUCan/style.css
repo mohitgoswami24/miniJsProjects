@@ -1,0 +1,16 @@
+body{
+	
+	background-size: cover;
+	background-color: white;
+	
+}
+#rectangle{
+	position: absolute;
+	background-color: #9a1bbd;
+	height: 60px;
+	width: 70px;
+	text-align: center;
+	font-size: 1rem;
+	color:white;
+	padding-top: 10px;
+}
